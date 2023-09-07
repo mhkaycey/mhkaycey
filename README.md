@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Your Name]
+### Hi there! 👋 I'm Kelechukwu Mark
 
 I'm a passionate Flutter and Dart developer, constantly exploring the world of mobile app development. Welcome to my GitHub profile, where I share my open-source projects and contributions to the Flutter community.
 
@@ -10,14 +10,18 @@ I'm a passionate Flutter and Dart developer, constantly exploring the world of m
 ### What I'm up to
 
 📱 **Projects**
+<!--
 - [Project 1]: Brief description and link
 - [Project 2]: Brief description and link
 - [Project 3]: Brief description and link
+-->
 
 📘 **Blog Posts**
+<!--
 - [Title of Blog Post 1]: Link to blog post
 - [Title of Blog Post 2]: Link to blog post
 - [Title of Blog Post 3]: Link to blog post
+-->
 
 🌐 **Connect with Me**
 <!--
@@ -35,7 +39,7 @@ I'm a passionate Flutter and Dart developer, constantly exploring the world of m
 - UI/UX Design
 
 ### Let's Collaborate! 🤝
-I'm always open to collaboration and exciting Flutter/Dart projects. Feel free to reach out to me via [email](mailto:youremail@example.com) or any of the social media links above. Let's build something amazing together!
+I'm always open to collaboration and exciting Flutter/Dart projects. Feel free to reach out to me via [email](mailto:kelechimark041@gmail.com) or any of the social media links above. Let's build something amazing together!
 
 Happy coding! 😄
 
