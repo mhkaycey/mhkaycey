@@ -1,9 +1,8 @@
 ### Hi there! 👋 I'm Kelechukwu Mark
 
 I'm a passionate Flutter and Dart developer, constantly exploring the world of mobile app development. Welcome to my GitHub profile, where I share my open-source projects and contributions to the Flutter community.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkaycey&label=Profile%20views&color=0e75b6&style=flat" alt="mhkaycey" /> </p>
 🚀 **About Me**
-- 💼 Currently working as a [Your Current Job/Position].
 - 🌱 Always learning and staying up-to-date with the latest Flutter trends.
 - 🔭 I'm passionate about creating smooth, intuitive, and delightful user experiences.
 
